@@ -1,12 +1,12 @@
 {
   "name": "generator-compiled-html",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a component html",
-  "homepage": "",
+  "homepage": "https://github.com/adenekan41/generator-compiled-html",
   "author": {
     "name": "Adenekan Wonderful",
     "email": "adenekanwonderful41@gmail.com",
-    "url": ""
+    "url": "https://github.com/adenekan41/generator-compiled-html"
   },
   "files": [
     "generators"
