@@ -1,0 +1,39 @@
+{
+	"name": "<%= name %>",
+	"description": "<%= description %>",
+	"version": "1.0.0",
+	"main": "gulpfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"flush": "rm -rf dist",
+		"start": "gulp",
+		"copy": "gulp copy",
+		"connect": "gulp connect",
+		"watch": "gulp watch",
+		"deploy": "surge dist/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/adenekan41/compiled-html.git"
+	},
+	"author": "Adenekan Wonderful",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/adenekan41/compiled-html/issues"
+	},
+	"homepage": "hhttps://github.com/adenekan41/compiled-html#readme",
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-accessibility": "^3.1.1",
+		"gulp-beautify": "^3.0.0",
+		"gulp-clean-css": "^4.2.0",
+		"gulp-connect": "^5.7.0",
+		"gulp-file-include": "^2.1.1",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-js-import": "^1.0.6",
+		"gulp-rename": "^2.0.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-uglify-es": "^2.0.0",
+		"gulp-util": "^3.0.8"
+	}
+}
