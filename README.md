@@ -8,6 +8,8 @@
 
 ### 🔥 Component Based
 
+### 🔧 ~1MB
+
 ### 📝 Raw HTML
 
 ### ✅ SCSS supported
