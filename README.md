@@ -1,4 +1,4 @@
-![Drag Racing](https://i.ibb.co/JtYZKpc/Group-10-2-1.png)
+![Drag Racing](https://i.ibb.co/Kr7v5Db/compiled-1.png)
 
 # Compiled HTML Generator [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
