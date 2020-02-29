@@ -2,6 +2,8 @@
 
 # Compiled HTML Generator [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
+[![NPM](https://nodei.co/npm/generator-compiled-html.png)](https://nodei.co/npm/generator-compiled-html/)
+
 > A Starter project to make writing html really simple and easy powered by gulp.
 
 ### ⚡️ Live Reload
