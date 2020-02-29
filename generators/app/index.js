@@ -6,7 +6,7 @@ const yosay = require("yosay");
 module.exports = class extends Generator {
   prompting() {
     // Have Yeoman greet the user.
-    this.log(yosay(`Welcome to the ${chalk.red("gcompiled-html")} generator!`));
+    this.log(yosay(`Welcome to the ${chalk.red("compiled-html")} generator!`));
 
     const prompts = [
       {
@@ -54,7 +54,10 @@ module.exports = class extends Generator {
       this.destinationPath("package.json"),
       {
         name: this.props.name,
-        description: this.props.description
+        description: this.props.description,
+        author: this.props.author,
+        license: this.props.license,
+        giturl: this.props.giturl
       }
     );
 
