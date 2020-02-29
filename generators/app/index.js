@@ -20,6 +20,24 @@ module.exports = class extends Generator {
         name: "description",
         message: "Your project description",
         default: "a compiled html project"
+      },
+      {
+        type: "input",
+        name: "giturl",
+        message: "Your project git url",
+        default: "https://github.com/adenekan41/generator-compiled-html"
+      },
+      {
+        type: "input",
+        name: "license",
+        message: "Your project license",
+        default: "MIT"
+      },
+      {
+        type: "input",
+        name: "author",
+        message: "Your project author",
+        default: "Adenekan Wonderful"
       }
     ];
 
